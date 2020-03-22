@@ -1,0 +1,16 @@
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\AdvanceWebApi1.deps.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\AdvanceWebApi1.runtimeconfig.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\AdvanceWebApi1.runtimeconfig.dev.json
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\AdvanceWebApi1.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.csprojAssemblyReference.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.RazorAssemblyInfo.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.RazorAssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.AssemblyInfoInputs.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.AssemblyInfo.cs
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.RazorTargetAssemblyInfo.cache
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\bin\Debug\netcoreapp2.2\AdvanceWebApi1.pdb
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.dll
+C:\Users\Bhuvaneswari\source\repos\19-03-2020-.net webapi\AdvanceWebApi1\AdvanceWebApi1\obj\Debug\netcoreapp2.2\AdvanceWebApi1.pdb
